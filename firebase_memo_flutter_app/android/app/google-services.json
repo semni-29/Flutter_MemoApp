@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "981680221830",
+    "project_id": "fir-memo-flutter",
+    "storage_bucket": "fir-memo-flutter.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:981680221830:android:4143ae1627874663516b07",
+        "android_client_info": {
+          "package_name": "com.example.firebase_memo_flutter_app"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCe9v7sza9zJc5k8PaW5Sj38kVK38IzHzk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
