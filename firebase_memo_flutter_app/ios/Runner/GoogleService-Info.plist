@@ -3,17 +3,17 @@
 <plist version="1.0">
 <dict>
 	<key>API_KEY</key>
-	<string>AIzaSyACGrxkzQY_5-HvzXFji-UEhtzEQhBMrhg</string>
+	<string></string>
 	<key>GCM_SENDER_ID</key>
-	<string>981680221830</string>
+	<string></string>
 	<key>PLIST_VERSION</key>
 	<string>1</string>
 	<key>BUNDLE_ID</key>
-	<string>com.example.firebaseMemoFlutterApp</string>
+	<string></string>
 	<key>PROJECT_ID</key>
-	<string>fir-memo-flutter</string>
+	<string></string>
 	<key>STORAGE_BUCKET</key>
-	<string>fir-memo-flutter.firebasestorage.app</string>
+	<string></string>
 	<key>IS_ADS_ENABLED</key>
 	<false></false>
 	<key>IS_ANALYTICS_ENABLED</key>
@@ -25,6 +25,6 @@
 	<key>IS_SIGNIN_ENABLED</key>
 	<true></true>
 	<key>GOOGLE_APP_ID</key>
-	<string>1:981680221830:ios:5be56405fe021532516b07</string>
+	<string></string>
 </dict>
 </plist>
